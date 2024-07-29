@@ -1,7 +1,7 @@
 # panoramic-skybox-creator
 Capture a 360° panoramic texture to create a Skybox material
 
-![image](https://github.com/user-attachments/assets/730d56ca-fe57-49be-90a7-d44b5a1fd710)
+![image](https://github.com/user-attachments/assets/e356dc3b-bd2a-497a-8f68-5fd895dfb779)
 
 ## Requirements
 - Unity 2023.2.20f1
